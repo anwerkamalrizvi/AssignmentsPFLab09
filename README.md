@@ -2,12 +2,12 @@
 >This file contains  PF LAB 09 Assignment with addition of 2 classtasks.  
 
 ## Questions (qn.c)
-<br>Write a C function that takes two numbers as input and returns their product.
-<br>Write a function that checks if a given number is even or odd.
-<br>Write a program that takes a destination string and a source string as input. Then, take
+<br>1.Write a C function that takes two numbers as input and returns their product.
+<br>2.Write a function that checks if a given number is even or odd.
+<br>3.Write a program that takes a destination string and a source string as input. Then, take
 an integer n as input and append only the first n characters of the source string to the
 destination. Print the new concatenated string.
-<br>Write a program that initializes a 2D character array with a list of words. Then, take a
+<br>4.Write a program that initializes a 2D character array with a list of words. Then, take a
 word as input from the user and check if it exists in the array. Display "Found" if it’s there,
 otherwise display "Not Found".
 ## More Problems (mpn.c)
