@@ -1,5 +1,5 @@
 # AssignmentsPFLab09
->This file contains  PF LAB 09 Assignment with addition of 2 classtasks.  
+>This repository contains  PF LAB 09 Assignment with addition of 2 classtasks.  
 
 ## Questions (qn.c)
 <br>1.Write a C function that takes two numbers as input and returns their product.
